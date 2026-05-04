@@ -7,6 +7,19 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.22.1",
+    "mongoose": "^9.6.1"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eurocl/backend-hola.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eurocl/backend-hola/issues"
+  },
+  "homepage": "https://github.com/eurocl/backend-hola#readme"
 }
